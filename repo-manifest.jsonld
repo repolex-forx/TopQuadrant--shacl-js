@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/TopQuadrant/shacl-js/commit/7ed360b795ab66cdb78c365fd136a82c524c0127",
       "git:hexsha": "7ed360b795ab66cdb78c365fd136a82c524c0127",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
