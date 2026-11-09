@@ -1,0 +1,11 @@
+{
+  "org": "TopQuadrant",
+  "repo": "shacl-js",
+  "versions": [
+    {
+      "commit": "7ed360b795ab66cdb78c365fd136a82c524c0127",
+      "tag": "",
+      "parsed_at": "2026-11-09T15:33:39.016997+00:00"
+    }
+  ]
+}
